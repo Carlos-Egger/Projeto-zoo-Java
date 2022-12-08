@@ -1,0 +1,13 @@
+[
+    {"nome":"Leão","peso":"145","altura":"1.85","cor":"Marrom"},
+    {"nome":"Onca","peso":"120","altura":"1.45","cor":"Marrom"},
+    {"nome":"Tigre","peso":"200","altura":"2.50","cor":"Laranja Listrado"},
+    {"nome":"Leopardo","peso":"70","altura":"0.90","cor":"Amarelo"},
+    {"nome":"Dragão de Comodo","peso":"140","altura":"1.60","cor":"Verde"},
+    {"nome":"Jacaré","peso":"300","altura":"4.00","cor":"Verde Escuro"},
+    {"nome":"Crocodilo","peso":"1000","altura":"5.50","cor":"Verde"},
+    {"nome":"Urso Branco","peso":"600","altura":"3.00","cor":"Branco"},
+    {"nome":"Urso Marrom","peso":"550","altura":"2.80","cor":"Marrom"},
+    {"nome":"Hiena","peso":"85","altura":"1.60","cor":"Marrom"}
+
+]
